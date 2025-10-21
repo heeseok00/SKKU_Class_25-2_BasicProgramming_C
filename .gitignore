@@ -1,5 +1,8 @@
 # documents
 *.pdf
+*.hwp
+*.hwpx
+*.hwt
 
 # images
 *.png
