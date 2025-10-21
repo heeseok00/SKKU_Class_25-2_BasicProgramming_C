@@ -1,0 +1,34 @@
+# documents
+*.pdf
+
+# images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.webp
+*.svg
+
+# windows binaries
+*.exe
+*.dll
+*.pdb
+
+# object/build outputs
+*.o
+*.obj
+*.out
+*.a
+*.lib
+*.so
+*.dylib
+
+# archives
+*.zip
+*.rar
+*.7z
+
+# system files
+.DS_Store
+Thumbs.db
